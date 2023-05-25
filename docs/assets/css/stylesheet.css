@@ -124,15 +124,13 @@ padding: 2rem 0;
 }
 
 .footer-container .wrapper {
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
-.footer-text {
 
-}
 
 .footer-text h2 {
-  margin: 0;
+  margin: 0;z
 }
 
 #foot-email {
